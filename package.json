@@ -48,7 +48,7 @@
     "webpack-dev-server": "^1.8.2"
   },
   "dependencies": {
-    "@zippytech/react-load-mask": "https://github.com/zippytech/react-load-mask",
+    "@zippytech/react-load-mask": "https://github.com/FortesSolutions/react-load-mask",
     "drag-helper": "^1.2.3",
     "has-touch": "^1.0.1",
     "object-assign": "^4.1.0",
